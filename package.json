@@ -16,11 +16,11 @@
   "author": "pbking",
   "description": "My Awesome Site",
   "devDependencies": {
-    "@wordpress/block-library": "^10.4.0",
-    "@wordpress/blocks": "^15.26.0",
+    "@wordpress/block-library": "^12.0.0",
+    "@wordpress/blocks": "^17.0.0",
 		"@wordpress/env": "^12.0.0",
-		"@wordpress/scripts": "^34.0.0",
+		"@wordpress/scripts": "^37.0.0",
     "copy-webpack-plugin": "^14.0.0",
-    "jsdom": "^30.0.1"
+    "jsdom": "^31.0.0"
   }
 }
